@@ -7,4 +7,3 @@ A smart Telegram chatbot that uses AI from Hugging Face’s LLaMA model to answe
 - Responds to `/start` and `/help` commands 👋
 - Sends your messages to Hugging Face API and replies with AI-generated answers 🤖💡
 - Runs a small web server to keep the bot alive 🌐🛠️
-
