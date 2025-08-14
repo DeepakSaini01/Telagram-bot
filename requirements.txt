@@ -1,0 +1,8 @@
+asyncio
+requests
+aiogram
+example
+flask
+python_dotenv
+huggingface
+huggingface_hub
